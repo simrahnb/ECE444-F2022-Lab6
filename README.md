@@ -1,5 +1,14 @@
 # ECE444-F2022-Lab6
 
+### Activity 2
+
+Url of Unit Test Function #1 : https://github.com/camillebruckmann/ECE444-Group4-EP/blob/main/Education_Pathways/tests/test_app.py#L33-L39 
+
+Url of Unit Test Function #2 : https://github.com/camillebruckmann/ECE444-Group4-EP/blob/main/Education_Pathways/tests/test_app.py#L40-L46 
+
+Url of Unit Test Function #3 : https://github.com/camillebruckmann/ECE444-Group4-EP/blob/main/Education_Pathways/tests/test_app.py#L47-L53 
+
+
 ### Activity 3 
 
 #### Pros and Cons of TDD 
